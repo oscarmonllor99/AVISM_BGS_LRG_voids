@@ -43,7 +43,7 @@ Since the catalogue we present here has been postprocessed according to the clea
 
 ## Figures
 
-In the following image, we display voids identified in a thin slice of the 3D cubes, represented by the spheres with radius equal to each void's effective radius. The voids are overlaid on top of the density contrast field interpolated by the void finder in order to carry out the void identification process. To get a glance at the 3D complex shapes of voids, see _Monllor-Berbegal et al. 2026_.
+In the following image, we display voids identified in a thin slice of the BGS and LRG data cubes, represented by circles resulting from the intersection of the slice and the spheres with radius equal to each void's effective radius. The voids are overlaid on top of the density contrast field interpolated by the void finder in order to carry out the void identification process. To get a glance at the 3D complex shapes of voids, see _Monllor-Berbegal et al. 2026_.
 
 ![Voids displayed in spherical shape](/figures/voids.png)
 
