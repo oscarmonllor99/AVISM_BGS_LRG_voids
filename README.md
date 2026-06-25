@@ -32,7 +32,7 @@ Before applying the void finder, both galaxy samples were preprocessed in order 
 
 Each of the ASCII catalogues has a header indicating the number of clean voids saved in it. Then, another header indicates the different data columns:
 
-- ID / $X$ / $Y$ / $Z$ / $X_G$ / $Y_G$ / $Z_G$ / Vol / $R$ / $\overline{\rho}$ / $\epsilon$ / IP 
+- ID / $X$ / $Y$ / $Z$ / $X_G$ / $Y_G$ / $Z_G$ / Vol / $R$ / $\overline{\Delta}$ / $\epsilon$ / IP 
 
 corresponding to the ID, maximum divergence centre ($\mathrm{cMpc}$), volume-weighted geometrical centre ($\mathrm{cMpc}$), volume ($\mathrm{cMpc}^3$), radius ($\mathrm{cMpc}$), mean overdensity, ellipticity, and inverse porosity, respectively. Take into account that the overdensity is defined as $\Delta = 1 + \delta$ with $\delta$ the density contrast. Each row contains the information for a given void ID in the clean void samples.
 
