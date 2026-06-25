@@ -6,7 +6,7 @@ Citation: _Monllor-Berbegal et al. 2026_
 
 ## Clarification
 
-The catalogues provided in this repository do not contain the 3D cubes on which the irregular shapes of voids and physical variables (density and velocity divergence) are saved, mainly because of their large size (1.5 GB each). Such data will be provided upon request.
+Although AVISM recovers the full 3D shape of voids, the catalogues provided in this repository do not contain the 3D data arrays on which the irregular shapes and physical variables (density and velocity divergence) are saved, mainly because of their large size (1.5 GB each). Such data will be provided upon request. The simplified catalogue we provided here, therefore, can be used as a standalone spherical void catalogue or complemented with the more complex and rich 3D information.
 
 ## Catalogue description
 
@@ -34,7 +34,7 @@ Each of the ASCII catalogues has a header indicating the number of clean voids s
 
 - ID / $X$ / $Y$ / $Z$ / $X_G$ / $Y_G$ / $Z_G$ / Vol / $R$ / $\overline{\rho}$ / $\epsilon$ / IP 
 
-corresponding to the ID, maximum divergence centre, volume-weighted geometrical centre, volume, radius, mean density, ellipticity and inverse porosity, respectively. Each row contains the information for a given void ID in the clean void samples.
+corresponding to the ID, maximum divergence centre ($\mathrm{cMpc}$), volume-weighted geometrical centre ($\mathrm{cMpc}$), volume ($\mathrm{cMpc}^3$), radius ($\mathrm{cMpc}$), mean overdensity, ellipticity, and inverse porosity, respectively. Take into account that the overdensity is defined as $\Delta = 1 + \delta$ with $\delta$ the density contrast. Each row contains the information for a given void ID in the clean void samples.
 
 
 ## Reader
@@ -43,7 +43,7 @@ Since the catalogue we present here has been postprocessed according to the clea
 
 ## Figures
 
-In the following image, we display voids identified in a thin slice of the 3D cubes, represented by the spheres with a radius equal to each void's effective radius. The voids are overlaid on top of the density contrast field interpolated by the void finder in order to carry out the void identification process. 
+In the following image, we display voids identified in a thin slice of the 3D cubes, represented by the spheres with radius equal to each void's effective radius. The voids are overlaid on top of the density contrast field interpolated by the void finder in order to carry out the void identification process. To get a glance at the 3D complex shapes of voids, see _Monllor-Berbegal et al. 2026_.
 
 ![Voids displayed in spherical shape](/figures/voids.png)
 
