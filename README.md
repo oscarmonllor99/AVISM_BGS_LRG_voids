@@ -2,7 +2,7 @@
 ## About and citation
 Study carried out at the Departament d'Astronomia i Astrofísica of Universitat de València by Óscar Monllor-Berbegal in collaboration with Susana Planelles and Vicent Quilis. This work has been supported by Agencia Estatal de Investigación Española (AEI; grant PID2022-138855NB-C33) and by the Generalitat Valenciana (grant PROMETEO CIPROM/2022/49). Óscar Monllor-Berbegal acknowledges support from Universitat de València through an Atracció de Talent fellowship.
 
-Citation: _Monllor-Berbegal et al. 2026_
+Citation: _Monllor-Berbegal et al. in prep. 2026_
 
 ## Clarification
 
